@@ -1,5 +1,7 @@
-TypeScript React AntDesign Demo
+TypeScript React AntDesign Date Picker Demo
 =================================
+
+现在直接支持dayjs了
 
 ```
 npm install
